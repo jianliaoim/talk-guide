@@ -28,12 +28,12 @@
        * [代码片段](posts/2-2-message-type.md)
        * [日程](posts/2-2-message-type.md)
        * [使用 Markdown 格式化你的消息](posts/2-2-message-type.md)
-   * [检索消息]
-       * [查看所有@我的消息]
-       * [自动整理]
-       * [筛选文件/链接/富文本/代码片段]
-       * [通过关键词搜索消息]
-       * [搜索收藏的消息]
+   * [检索消息](posts/2-3-search-message.md)
+       * [查看所有@我的消息](posts/2-3-search-message.md)
+       * [自动整理](posts/2-3-search-message.md)
+       * [筛选文件/链接/富文本/代码片段](posts/2-3-search-message.md)
+       * [通过关键词搜索消息](posts/2-3-search-message.md)
+       * [搜索收藏的消息](posts/2-3-search-message.md)
    * [话题]
        * [创建话题]
        * [话题目标]
