@@ -14,20 +14,20 @@
        * [使用「私聊」进行一对一的交流]
        * [使用「分享」与团队成员更有目的的讨论]
 * [用户进阶]
-   * [发送消息](posts/send-message.md)
-       * [发送消息](posts/send-message.md)
-       * [修改与删除](posts/send-message.md)
-       * [@成员](posts/send-message.md)
-       * [转发](posts/send-message.md)
-       * [标签](posts/send-message.md)
-       * [收藏](posts/send-message.md)
-   * [消息类型]
-       * [纯文本]
-       * [文件]
-       * [富文本]
-       * [代码片段]
-       * [日程]
-       * [使用 Markdown 格式化你的消息]
+   * [发送消息](posts/2-1-send-message.md)
+       * [发送消息](posts/2-1-send-message.md)
+       * [修改与删除](posts/2-1-send-message.md)
+       * [@成员](posts/2-1-send-message.md)
+       * [转发](posts/2-1-send-message.md)
+       * [标签](posts/2-1-send-message.md)
+       * [收藏](posts/2-1-send-message.md)
+   * [消息类型](posts/2-2-message-type.md)
+       * [纯文本](posts/2-2-message-type.md)
+       * [文件](posts/2-2-message-type.md)
+       * [富文本](posts/2-2-message-type.md)
+       * [代码片段](posts/2-2-message-type.md)
+       * [日程](posts/2-2-message-type.md)
+       * [使用 Markdown 格式化你的消息](posts/2-2-message-type.md)
    * [检索消息]
        * [查看所有@我的消息]
        * [自动整理]
