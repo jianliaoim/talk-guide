@@ -71,14 +71,14 @@
        * [如何向团队推荐简聊]
        * [如何让客户使用简聊]
 * [管理员进阶]
-   * [团队管理]
-       * [名称与短域名]
-       * [成员权限管理]
-       * [将成员按特定分组归类]
-       * [与 Teambition 同步成员]
-       * [定期管理您的话题，将不再活跃的话题归档]
-       * [统计数据]
-   * [收费策略]
-       * [简聊需要付费吗]
-       * [选择适合您的收费方案]
+   * [团队管理](posts/3-1-manage-team.md)
+       * [名称与短域名](posts/3-1-manage-team.md)
+       * [成员权限管理](posts/3-1-manage-team.md)
+       * [将成员按特定分组归类](posts/3-1-manage-team.md)
+       * [与 Teambition 同步成员](posts/3-1-manage-team.md)
+       * [定期管理您的话题，将不再活跃的话题归档](posts/3-1-manage-team.md)
+       * [统计数据](posts/3-1-manage-team.md)
+   * [收费策略](posts/3-2-pricing.md)
+       * [简聊需要付费吗](posts/3-2-pricing.md)
+       * [选择适合您的收费方案](posts/3-2-pricing.md)
 * [使用技巧]
