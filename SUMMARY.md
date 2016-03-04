@@ -14,6 +14,7 @@
        * [使用「私聊」进行一对一的交流]
        * [使用「分享」与团队成员更有目的的讨论]
 * [用户进阶]
+<<<<<<< HEAD
    * [发送消息](posts/2-1-send-message.md)
        * [发送消息](posts/2-1-send-message.md)
        * [修改与删除](posts/2-1-send-message.md)
@@ -56,6 +57,50 @@
    * [成员分组]
        * [合理分组团队成员]
        * [邀请分组]
+=======
+   * [发送消息](posts/send-message.md)
+       * [发送消息](posts/send-message.md)
+       * [修改与删除](posts/send-message.md)
+       * [@成员](posts/send-message.md)
+       * [转发](posts/send-message.md)
+       * [标签](posts/send-message.md)
+       * [收藏](posts/send-message.md)
+   * [消息类型]
+       * [纯文本]
+       * [文件]
+       * [富文本]
+       * [代码片段]
+       * [日程]
+       * [使用 Markdown 格式化你的消息]
+   * [检索消息]
+       * [查看所有@我的消息]
+       * [自动整理]
+       * [筛选文件/链接/富文本/代码片段]
+       * [通过关键词搜索消息]
+       * [搜索收藏的消息]
+   * [话题](posts/2-4-topic.md)
+       * [创建话题](posts/2-4-topic.md)
+       * [话题目标](posts/2-4-topic.md)
+       * [话题成员管理](posts/2-4-topic.md)
+       * [公开与私有](posts/2-4-topic.md)
+       * [自动绑定邮箱](posts/2-4-topic.md)
+   * [分享设置](posts/2-5-story.md)
+       * [创建分享](posts/2-5-story.md)
+       * [查看分享内容](posts/2-5-story.md)
+       * [修改分享](posts/2-5-story.md)
+       * [管理参与者](posts/2-5-story.md)
+       * [删除分享](posts/2-5-story.md)
+   * [聚合服务](posts/2-6-integration.md)
+       * [聚合介绍](posts/2-6-integration.md)
+       * [查看详细聚合列表](posts/2-6-integration.md)
+   * [访客](posts/2-7-guest.md)
+       * [开启与关闭](posts/2-7-guest.md)
+       * [是否可见历史消息](posts/2-7-guest.md)
+       * [访问访客页面](posts/2-7-guest.md)
+   * [成员分组](posts/2-8-group.md)
+       * [合理分组团队成员](posts/2-8-group.md)
+       * [邀请分组](posts/2-8-group.md)
+>>>>>>> feature/topic
    * [语音通话]
        * [电话会议]
    * [个性化你的简聊]
