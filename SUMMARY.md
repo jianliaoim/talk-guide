@@ -67,9 +67,9 @@
    * [多团队工作](posts/2-11-multi-team.md)
        * [切换团队](posts/2-11-multi-team.md)
        * [来自其他团队的消息与通知](posts/2-11-multi-team.md)
-   * [推荐]
-       * [如何向团队推荐简聊]
-       * [如何让客户使用简聊]
+   * [推荐](posts/2-12-recommend.md)
+       * [如何向团队推荐简聊](posts/2-12-recommend.md)
+       * [如何让客户使用简聊](posts/2-12-recommend.md)
 * [管理员进阶](posts/3-1-manage-team.md)
    * [团队管理](posts/3-1-manage-team.md)
        * [名称与短域名](posts/3-1-manage-team.md)
